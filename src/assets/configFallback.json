@@ -1,0 +1,43 @@
+{
+    "_id": "67bd6ced97bd2acf21757eba",
+    "miniOSVersion": "4.0",
+    "currentiOSVersion": "4.2",
+    "minAndroidVersion": "4.5",
+    "currentAndroidVersion": "4.6",
+    "about": "https://aswaaq.ae/about-us/",
+    "storelocator": "https://aswaaq.ae/#store-locator",
+    "tnc": "https://aswaaq.ae/our-services/",
+    "faq": "https://aswaaq.ae/our-loyalty-rewards/",
+    "facebook": "https://www.facebook.com/aswaaq.uae",
+    "instagram": "https://www.instagram.com/aswaaq.retail/",
+    "x": "https://x.com/i/flow/login?redirect_after_login=%2Faswaaq",
+    "onetrust_consent_info": {
+        "client_id": "bd33f53b26ee43b894adc545796fdb19",
+        "client_secret": "UOxvmzMYW6o7T5hTLxlItibzcJ9uzx68",
+        "purpose_ID": "ac9b539a-b5f9-4033-96b3-f26435398492",
+        "custom_preference_ID": "53e80ae2-c649-4c7a-b18f-8ba4d7d63a00",
+        "options": [
+            "93e11cc3-7185-42ed-b41e-1d4849b88baf",
+            "264b0e51-ec23-4bad-9f1c-5d887b102f72",
+            "0429f9c6-258e-4fd3-a136-ac467533d8e9"
+        ],
+        "consentOptions": [
+            {
+                "consentId": "264b0e51-ec23-4bad-9f1c-5d887b102f72",
+                "name": "Email",
+                "nameArabic": "\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a"
+            },
+            {
+                "consentId": "93e11cc3-7185-42ed-b41e-1d4849b88baf",
+                "name": "SMS",
+                "nameArabic": "\u0631\u0633\u0627\u0644\u0629 \u0642\u0635\u064a\u0631\u0629"
+            },
+            {
+                "consentId": "0429f9c6-258e-4fd3-a136-ac467533d8e9",
+                "name": "WhatsApp",
+                "nameArabic": "\u0648\u0627\u062a\u0633\u0627\u0628"
+            }
+        ],
+        "requestInformation": "eyJhbGciOiJSUzUxMiJ9.eyJvdEp3dFZlcnNpb24iOjEsInByb2Nlc3NJZCI6IjI5NmEyMmUzLTFlMGItNGM3ZC05Mzg2LTgwNmJmZWRiY2IwMyIsInByb2Nlc3NWZXJzaW9uIjoyLCJpYXQiOiIyMDIzLTA1LTA2VDE1OjU3OjUyLjk3NyIsIm1vYyI6IkFQSSIsInBvbGljeV91cmkiOm51bGwsInN1YiI6IlNGU0NfSUQiLCJpc3MiOm51bGwsInRlbmFudElkIjoiMmNmZjg1YzYtODc2Ni00ZDY2LWE0YTYtZTU1MTcyYzYxMmUwIiwiZGVzY3JpcHRpb24iOiJTU1MgLSBXZWJzaXRlIGNvbGxlY3Rpb24gcG9pbnQgZGVzY3JpcHRpb24iLCJjb25zZW50VHlwZSI6IkNPTkRJVElPTkFMVFJJR0dFUiIsImFsbG93Tm90R2l2ZW5Db25zZW50cyI6ZmFsc2UsImRvdWJsZU9wdEluIjpmYWxzZSwicHVycG9zZXMiOlt7ImlkIjoiYWM5YjUzOWEtYjVmOS00MDMzLTk2YjMtZjI2NDM1Mzk4NDkyIiwidmVyc2lvbiI6MywicGFyZW50SWQiOm51bGwsInRvcGljcyI6W10sImN1c3RvbVByZWZlcmVuY2VzIjpbeyJpZCI6IjUzZTgwYWUyLWM2NDktNGM3YS1iMThmLThiYTRkN2Q2M2EwMCIsImlzUmVxdWlyZWQiOmZhbHNlLCJvcHRpb25zIjpbIjkzZTExY2MzLTcxODUtNDJlZC1iNDFlLTFkNDg0OWI4OGJhZiIsIjI2NGIwZTUxLWVjMjMtNGJhZC05ZjFjLTVkODg3YjEwMmY3MiIsIjA0MjlmOWM2LTI1OGUtNGZkMy1hMTM2LWFjNDY3NTMzZDhlOSJdfV0sImVuYWJsZUdlb2xvY2F0aW9uIjpmYWxzZX1dLCJub3RpY2VzIjpbXSwiZHNEYXRhRWxlbWVudHMiOlsiTmFtZSIsIkVtYWlsIiwiTW9iaWxlIiwiU291cmNlIiwiQnJhbmQiLCJXaGF0c0FwcCBOdW1iZXIiXSwiYXV0aGVudGljYXRpb25SZXF1aXJlZCI6ZmFsc2UsInJlY29uZmlybUFjdGl2ZVB1cnBvc2UiOmZhbHNlLCJvdmVycmlkZUFjdGl2ZVB1cnBvc2UiOnRydWUsImR5bmFtaWNDb2xsZWN0aW9uUG9pbnQiOmZhbHNlLCJhZGRpdGlvbmFsSWRlbnRpZmllcnMiOlsiRW1haWwiXSwibXVsdGlwbGVJZGVudGlmaWVyVHlwZXMiOmZhbHNlLCJlbmFibGVQYXJlbnRQcmltYXJ5SWRlbnRpZmllcnMiOmZhbHNlLCJwYXJlbnRQcmltYXJ5SWRlbnRpZmllcnNUeXBlIjpudWxsLCJhZGRpdGlvbmFsUGFyZW50SWRlbnRpZmllclR5cGVzIjpbXSwiZW5hYmxlR2VvbG9jYXRpb24iOmZhbHNlfQ.TuEsWap8AeJ_hGw9FbqUTpzAuoqCgah1H7MlmMQy3kxyzoGl6mzIG-B4Sk8HS0LGXbLQZ1i6ynJ2ARVmknJsexfWLovRuUYP2cobghZ29KftqtcyRRewD2wg0JPo4A1bTUlfJgtNtxv5BN_FfAuReLw-ub9nMqji5SaIiDC8nJ41SlsznbslDhgmv37XOA-f2fbc2manH4RU1uGp1jkuVF-r21o2SajrCXAF6SogOHyo3zRdIrJgvmY1DF8MlqcnS6FED5ZM-rVVqyzt8fRmLvpDLI5owxAOEkOBsSkEF82ENU41_BqdkOILkEjA7nshL8fLs_zgv8gf0MBxmJWufLAR4Cq1cuxKATo38rvqWY23kJRa15wilvT_VUQlAb3ks-6zx231XcbH7UYr13uetPL3GfFsxMzzIWobzMULLmWQALP810KzoE28OdIu5FVdTrXnHS9r83XpTnx3QR85jkcHeYZ-Vx7UDi_blSo1zjt7izMZnfj1qySxGtnurEe-r6TpyBm9_IQ3bSvj7AjjAp3fDdC7cbyDeuAXruWnjOwmLiRUn4HvjJG04XbSygc_Kw8Hhketc3j239y6DVWXhLJ72VVxG0FzThAHq-Pn430M0qU7oA9w2ajM7rIef0LXwMj0RIJgz7fycNrqJXcX7WdwvArGWoLpSaumoDQkcaU"
+    }
+}

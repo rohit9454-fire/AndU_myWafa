@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513802662008",
+    "project_id": "aswaaqloyalty",
+    "storage_bucket": "aswaaqloyalty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513802662008:android:6f02ee66c587a32fcf7d8d",
+        "android_client_info": {
+          "package_name": "com.gmg.loyalty.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3IDGSe6ezydPnOILnugOnrTBgToVxoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

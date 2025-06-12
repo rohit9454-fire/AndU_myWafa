@@ -1,2 +1,1 @@
-# AndU_myWafa
-Loaylty Project
+==== Welcome to MYWAFA APP ====
